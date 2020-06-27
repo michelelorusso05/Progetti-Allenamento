@@ -1,2 +1,2 @@
-# Tartaglia-Triangle
-Programma scritto in C++ che permette di calcolare il triangolo di Tartaglia fino a una linea specificata.
+# ProgettiAllenamento
+Vari progetti che uso come esercizi di programmazione.
