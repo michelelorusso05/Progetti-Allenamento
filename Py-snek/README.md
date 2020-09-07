@@ -1,13 +1,13 @@
 Semplice Snake programmato in python.
 
-#Comandi:
+# Comandi:
 
-WASD/Tasti freccia: Movimento
+**WASD/Tasti freccia:** Movimento
 
-ESC: Esci
+**ESC:** Esci
 
 
-#Features:
+# Features:
 
 Menu Principale (è davvero una feature?)
 
