@@ -1,4 +1,5 @@
 Semplice Snake programmato in python.
+
 Comandi:
 
 WASD/Tasti freccia: Movimento
