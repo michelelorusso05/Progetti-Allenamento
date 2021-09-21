@@ -1,5 +1,6 @@
 /*
     Convertire da decimale a binario utilizzando le sottrazioni successive.
+    Autore: Michele Lorusso, 21/09/2021
 */
 
 #include <stdio.h>
